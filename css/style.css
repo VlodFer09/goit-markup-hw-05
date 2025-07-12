@@ -612,7 +612,9 @@ img {
 .input-wrapper {
   margin-bottom: 8px;
 }
-
+.input-wrapper-comment {
+  margin-bottom: 16px;
+}
 .checkbox-wrapper {
   margin-bottom: 24px;
 }
